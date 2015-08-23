@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "testROSqt")
+set(testROSqt_MAINTAINER "viki <viki@todo.todo>")
+set(testROSqt_DEPRECATED "")
+set(testROSqt_VERSION "0.0.0")
+set(testROSqt_BUILD_DEPENDS "roscpp" "std_msgs")
+set(testROSqt_RUN_DEPENDS "roscpp" "std_msgs")
+set(testROSqt_BUILDTOOL_DEPENDS "catkin")

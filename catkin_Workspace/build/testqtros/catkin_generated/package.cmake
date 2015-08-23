@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "testqtros")
+set(testqtros_MAINTAINER "viki <viki@todo.todo>")
+set(testqtros_DEPRECATED "")
+set(testqtros_VERSION "0.0.0")
+set(testqtros_BUILD_DEPENDS "roscpp" "std_msgs")
+set(testqtros_RUN_DEPENDS "roscpp" "std_msgs")
+set(testqtros_BUILDTOOL_DEPENDS "catkin")

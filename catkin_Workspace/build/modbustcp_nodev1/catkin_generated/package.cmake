@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "modbustcp_nodev1")
+set(modbustcp_nodev1_MAINTAINER "viki <viki@todo.todo>")
+set(modbustcp_nodev1_DEPRECATED "")
+set(modbustcp_nodev1_VERSION "0.0.0")
+set(modbustcp_nodev1_BUILD_DEPENDS "roscpp" "std_msgs")
+set(modbustcp_nodev1_RUN_DEPENDS "roscpp" "std_msgs")
+set(modbustcp_nodev1_BUILDTOOL_DEPENDS "catkin")

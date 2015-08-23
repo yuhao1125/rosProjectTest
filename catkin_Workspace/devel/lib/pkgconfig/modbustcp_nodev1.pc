@@ -1,0 +1,8 @@
+prefix=/home/viki/catkin_Workspace/devel
+
+Name: modbustcp_nodev1
+Description: Description of modbustcp_nodev1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/viki/catkin_Workspace/devel/lib 
+Requires: 

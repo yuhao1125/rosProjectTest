@@ -1,0 +1,8 @@
+prefix=/home/viki/catkin_Workspace/build/testqtros/devel
+
+Name: testqtros
+Description: Description of testqtros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/viki/catkin_Workspace/build/testqtros/devel/lib 
+Requires: 
